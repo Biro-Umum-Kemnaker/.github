@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Biro-Umum-Kemnaker/.github/main/profile/assets/logo-dark.png">
+  <img alt="Logo Kementerian Ketenagakerjaan Republik Indonesia" src="https://raw.githubusercontent.com/Biro-Umum-Kemnaker/.github/main/profile/assets/logo-light.png" width="420">
+</picture>
+
 # BIRO UMUM
 ## SEKRETARIAT JENDERAL
 ## KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA
