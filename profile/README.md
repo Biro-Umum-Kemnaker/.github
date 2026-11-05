@@ -15,22 +15,33 @@
 
 ## Tentang
 
-Biro Umum merupakan unit di lingkungan Sekretariat Jenderal, Kementerian Ketenagakerjaan Republik Indonesia, yang mempunyai tugas melaksanakan koordinasi, pembinaan, dan pelaksanaan urusan rumah tangga, layanan pengadaan barang/jasa pemerintah, layanan penyelenggaraan kearsipan Kementerian, serta urusan ketatausahaan pimpinan dan keprotokolan.
+Organisasi ini adalah wadah resmi pengembangan aplikasi dan sistem informasi internal **Biro Umum, Sekretariat Jenderal, Kementerian Ketenagakerjaan Republik Indonesia**, untuk mendukung pelaksanaan tugas Biro Umum sebagaimana diatur dalam [Permenaker Nomor 14 Tahun 2026](https://peraturan.go.id/files/permenaker-no-14-tahun-2026.pdf).
 
-Organisasi ini merupakan wadah resmi pengembangan dan pengelolaan aplikasi serta sistem informasi internal untuk mendukung pelaksanaan tugas dan fungsi tersebut.
+## Domain Layanan
 
-## Fungsi
+Aplikasi yang dikembangkan di organisasi ini mendukung bidang kerja berikut:
 
-1. Koordinasi dan pelaksanaan urusan pengelolaan rumah tangga serta sarana dan prasarana perkantoran pusat.
-2. Koordinasi, pembinaan, dan layanan pengadaan barang/jasa pemerintah.
-3. Koordinasi, pembinaan, dan layanan penyelenggaraan kearsipan Kementerian.
-4. Pelaksanaan urusan ketatausahaan pimpinan dan keprotokolan.
-5. Pelaksanaan urusan tata usaha dan rumah tangga Biro Umum.
+- Pengelolaan rumah tangga serta sarana dan prasarana perkantoran
+- Layanan pengadaan barang/jasa pemerintah
+- Layanan penyelenggaraan kearsipan
+- Ketatausahaan pimpinan dan keprotokolan
 
-## Susunan Organisasi
+## Prinsip Pengembangan
 
-| Unit | Lingkup Tugas |
-|---|---|
+1. **Akuntabel**: setiap data tercatat, dapat ditelusuri, dan dapat dipertanggungjawabkan.
+2. **Aman**: data internal dilindungi dan tidak dipublikasikan tanpa kewenangan.
+3. **Efisien**: proses kerja disederhanakan untuk meningkatkan kualitas layanan.
+4. **Berkelanjutan**: sistem dikembangkan agar mudah dipelihara dan diteruskan.
+
+## Akses
+
+Repositori pada organisasi ini bersifat tertutup dan hanya diperuntukkan bagi personel yang berwenang. Akses diberikan oleh administrator organisasi sesuai kebutuhan tugas.
+
+## Kontak
+
+Informasi dan layanan resmi Kementerian: <https://kemnaker.go.id>
+
+---|---|
 | Bagian Rumah Tangga | Keamanan, ketertiban, dan kebersihan aset yang dikelola Biro Umum; layanan kesehatan Kementerian; pengelolaan barang milik negara di Biro Umum dan lingkungan Sekretariat Jenderal |
 | Bagian Pengadaan Barang/Jasa Pemerintah | Koordinasi, pembinaan, dan layanan pengadaan barang/jasa di Kementerian |
 | Bagian Tata Usaha Pimpinan dan Protokol | Ketatausahaan dan keprotokolan Menteri dan Wakil Menteri; ketatausahaan Sekretaris Jenderal, Staf Ahli, dan Staf Khusus |
