@@ -15,15 +15,30 @@
 
 ## Tentang
 
-Organisasi ini merupakan wadah resmi pengembangan dan pengelolaan aplikasi serta sistem informasi internal di lingkungan Biro Umum, Kementerian Ketenagakerjaan Republik Indonesia, dalam rangka mendukung penyelenggaraan layanan umum dan administrasi perkantoran.
+Biro Umum merupakan unit di lingkungan Sekretariat Jenderal, Kementerian Ketenagakerjaan Republik Indonesia, yang mempunyai tugas melaksanakan koordinasi, pembinaan, dan pelaksanaan urusan rumah tangga, layanan pengadaan barang/jasa pemerintah, layanan penyelenggaraan kearsipan Kementerian, serta urusan ketatausahaan pimpinan dan keprotokolan.
 
-## Ruang Lingkup
+Organisasi ini merupakan wadah resmi pengembangan dan pengelolaan aplikasi serta sistem informasi internal untuk mendukung pelaksanaan tugas dan fungsi tersebut.
 
-| Bidang | Uraian |
+## Fungsi
+
+1. Koordinasi dan pelaksanaan urusan pengelolaan rumah tangga serta sarana dan prasarana perkantoran pusat.
+2. Koordinasi, pembinaan, dan layanan pengadaan barang/jasa pemerintah.
+3. Koordinasi, pembinaan, dan layanan penyelenggaraan kearsipan Kementerian.
+4. Pelaksanaan urusan ketatausahaan pimpinan dan keprotokolan.
+5. Pelaksanaan urusan tata usaha dan rumah tangga Biro Umum.
+
+## Susunan Organisasi
+
+| Unit | Lingkup Tugas |
 |---|---|
-| Pelayanan Umum | Dukungan layanan perkantoran dan pencatatan tamu |
-| Administrasi | Digitalisasi pencatatan dan pengelolaan data kegiatan umum |
-| Sistem Informasi Internal | Pengembangan dan pemeliharaan aplikasi pendukung kerja Biro Umum |
+| Bagian Rumah Tangga | Keamanan, ketertiban, dan kebersihan aset yang dikelola Biro Umum; layanan kesehatan Kementerian; pengelolaan barang milik negara di Biro Umum dan lingkungan Sekretariat Jenderal |
+| Bagian Pengadaan Barang/Jasa Pemerintah | Koordinasi, pembinaan, dan layanan pengadaan barang/jasa di Kementerian |
+| Bagian Tata Usaha Pimpinan dan Protokol | Ketatausahaan dan keprotokolan Menteri dan Wakil Menteri; ketatausahaan Sekretaris Jenderal, Staf Ahli, dan Staf Khusus |
+| Subbagian Tata Usaha | Urusan ketatausahaan dan rumah tangga internal Biro Umum |
+
+## Dasar Hukum
+
+[Peraturan Menteri Ketenagakerjaan Nomor 14 Tahun 2026 tentang Organisasi dan Tata Kerja Kementerian Ketenagakerjaan](https://peraturan.go.id/files/permenaker-no-14-tahun-2026.pdf), Pasal 35 sampai dengan Pasal 48.
 
 ## Prinsip Pengelolaan
 
