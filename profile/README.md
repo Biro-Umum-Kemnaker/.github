@@ -1,41 +1,44 @@
 <div align="center">
 
-# Biro Umum
-### Kementerian Ketenagakerjaan Republik Indonesia
-
-*Melayani, mendukung, dan memastikan operasional kementerian berjalan lancar.*
-
-![Kemnaker](https://img.shields.io/badge/Kemnaker-Republik%20Indonesia-red?style=for-the-badge)
-![Biro Umum](https://img.shields.io/badge/Biro-Umum-blue?style=for-the-badge)
+# BIRO UMUM
+## SEKRETARIAT JENDERAL
+## KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA
 
 </div>
 
 ---
 
-## Tentang Kami
+## Tentang
 
-Organisasi ini adalah ruang kerja digital **Biro Umum Kemnaker** untuk mengembangkan dan mengelola aplikasi internal yang mendukung layanan umum, administrasi, dan operasional perkantoran.
+Organisasi ini merupakan wadah resmi pengembangan dan pengelolaan aplikasi serta sistem informasi internal di lingkungan Biro Umum, Kementerian Ketenagakerjaan Republik Indonesia, dalam rangka mendukung penyelenggaraan layanan umum dan administrasi perkantoran.
 
-## Fokus
+## Ruang Lingkup
 
-- 🏢 **Layanan perkantoran**: pencatatan tamu, resepsionis, dan administrasi umum
-- 🗂️ **Digitalisasi proses**: mengganti pencatatan manual dengan sistem yang rapi dan terekam
-- 🔧 **Aplikasi internal**: tools yang dibuat sesuai kebutuhan kerja Biro Umum
-
-## Prinsip Kerja
-
-| Prinsip | Keterangan |
+| Bidang | Uraian |
 |---|---|
-| **Sederhana** | Mudah dipakai oleh semua pegawai |
-| **Akuntabel** | Data tercatat dan dapat ditelusuri |
-| **Aman** | Data internal dijaga dan tidak dipublikasikan |
+| Pelayanan Umum | Dukungan layanan perkantoran dan pencatatan tamu |
+| Administrasi | Digitalisasi pencatatan dan pengelolaan data kegiatan umum |
+| Sistem Informasi Internal | Pengembangan dan pemeliharaan aplikasi pendukung kerja Biro Umum |
+
+## Prinsip Pengelolaan
+
+1. **Akuntabel**: setiap data tercatat, dapat ditelusuri, dan dapat dipertanggungjawabkan.
+2. **Aman**: data internal dilindungi dan tidak dipublikasikan tanpa kewenangan.
+3. **Efisien**: proses kerja disederhanakan untuk meningkatkan kualitas layanan.
+4. **Berkelanjutan**: sistem dikembangkan agar mudah dipelihara dan diteruskan.
+
+## Ketentuan Penggunaan
+
+Sebagian besar repositori pada organisasi ini bersifat tertutup dan hanya diperuntukkan bagi personel yang berwenang. Akses diberikan oleh administrator organisasi sesuai kebutuhan tugas.
 
 ## Kontak
 
-Untuk pertanyaan atau kerja sama, hubungi Biro Umum Kemnaker melalui saluran resmi kementerian.
+Informasi dan layanan resmi dapat diperoleh melalui kanal resmi Kementerian Ketenagakerjaan Republik Indonesia:
+
+- Situs web: <https://kemnaker.go.id>
 
 ---
 
 <div align="center">
-<sub>© Biro Umum, Kementerian Ketenagakerjaan RI</sub>
+<sub>Biro Umum, Sekretariat Jenderal<br>Kementerian Ketenagakerjaan Republik Indonesia</sub>
 </div>
